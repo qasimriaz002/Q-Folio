@@ -33,6 +33,7 @@ Basic knowledge of HTML, CSS, JS, and Bootstrap.
 
 ### Installation
 Clone the repository:
-    ```sh
-    git clone https://github.com/qasimriaz002/Q-Folio.git 
-    ```
+
+```sh
+git clone https://github.com/qasimriaz002/Q-Folio.git 
+```
